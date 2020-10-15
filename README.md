@@ -1,4 +1,4 @@
-![Code Corps Phoenix Logo](https://d3pgew4wbk2vb1.cloudfront.net/images/github/code-corps-api.png)
+![Code Corps Phoenix Logo](https://d3pgew4wbk2vb1.cloudfront.net/images/github/code-corps-api.png)..
 
 [![CircleCI](https://circleci.com/gh/code-corps/code-corps-api.svg?style=shield)](https://circleci.com/gh/code-corps/code-corps-api)
 [![Inline docs](http://inch-ci.org/github/code-corps/code-corps-api.svg?branch=develop)](http://inch-ci.org/github/code-corps/code-corps-api)
